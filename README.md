@@ -1,3 +1,7 @@
+# Changes needed to run toy example
+1. change dtype of docid_inputs in click_simulation_feed.py to np.int32 to match up with tensorflow requirements
+2. change all dtype in click_simulation_feed.py to np.int32 for same reason as above
+
 <div align='center'>
 <img src="https://github.com/ULTR-Community/ULTRA/blob/master/docs/logo.png?raw=true" width = "200"  alt="logo" align="center" />
 </div>
